@@ -4,7 +4,7 @@ This the the genesis code for ICBPRS backend.
 # ICBPRS - Instant Cross Border Payment Remittance Solution 
 I am building this project as the prototype for my research paper published with the title - 'Understanding the Fundamentals of ICBPRS Technology'. 
 <br>
-Fid the complete research paper <a href=https://uditakhouri.xyz>here</a>
+Find the complete research paper <a href=https://uditakhouri.xyz>here</a>
 
 # Where can we use it?
 This blockchain code can serve as the fundamental of any of your blockchain-based project. 
